@@ -4,7 +4,6 @@ menu:
   news: News
   plugins: Plugins
   themes: Themes
-  search: Search
 
 index:
   get_started: Get started
