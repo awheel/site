@@ -3,7 +3,6 @@ menu:
   api: API
   news: News
   plugins: Plugins
-  themes: Themes
 
 index:
   get_started: Get started

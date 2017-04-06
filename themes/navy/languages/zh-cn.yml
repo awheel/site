@@ -3,7 +3,6 @@ menu:
   api: API
   news: 新闻
   plugins: 插件
-  themes: 主题
 
 index:
   get_started: 开始使用
