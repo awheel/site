@@ -1,8 +1,8 @@
 menu:
   docs: 文档
-  api: API
-  news: 新闻
+  news: 动态
   plugins: 插件
+  component: 扩展
 
 index:
   get_started: 开始使用
