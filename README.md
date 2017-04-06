@@ -1,15 +1,15 @@
-# Hexo Official Website
+# Awheel Official Website
 <!-- Markdown snippet -->
-[![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
+[![Build Status](https://travis-ci.org/awheel/docs.svg?branch=master)](https://travis-ci.org/awheel/docs)
 
-The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+The website for Awheel. You can see the generated files at [awheel/awheel.github.io](https://github.com/awheel/awheel.github.io) repository.
 
 ## Getting started
 
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/hexojs/site.git
+$ git clone https://github.com/awheel/site.git
 $ cd site
 $ npm install
 ```
@@ -29,10 +29,7 @@ $ hexo server
 ## Contributors
 
 - English - [tommy351](https://github.com/tommy351)
-- 正體中文 - [tommy351](https://github.com/tommy351)
 - 简体中文 - [pinggod](https://github.com/pinggod), [Xuanwo](https://github.com/Xuanwo)
-- Русский - [twirlfog](https://github.com/twirlfog)
-- 한국어 - [lazyrodi](https://github.com/lazyrodi)
 
 ## License
 

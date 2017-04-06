@@ -1,6 +1,6 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
+title: Awheel
+subtitle: "A fast, simple & powerful php framework"
+description: "Awheel is a fast, simple & powerful php framework"
 author: fengqi
 language: en
 timezone: Asia/Shanghai
@@ -22,14 +22,5 @@ deploy:
   repo: git@github.com:awheel/awheel.github.io.git
 
 disqus_shortname: awheel
-google_analytics: UA-4910098-10
-fb_admins: 100000247608790
-algolia:
-  en:
-    api_key: c3d5d4c995b5e0c2ffb5623900279a66
-    index_name: hexo
-  zh-cn:
-    api_key: cdea7d4e47d84f6145b77e7f68689f35
-    index_name: hexo_zh-cn
 twitter: OrgAwheel
 github: awheel
