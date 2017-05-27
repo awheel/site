@@ -22,7 +22,7 @@ $ composer create awheel/awheel
 ```
 
 {% note warn 重要 %}
-进入下一步前，Awheel 要求您有一定的理论基础储备，包括但不局限于：MVC、RESTful、PSR。
+进入下一步前，Awheel 要求您有一定的理论基础储备，包括但不局限于：MVC、RESTful、PSR、IoC。
 如果您有过 Laravel、Symfony 使用经验更佳，Awheel 大量借鉴或使用了 Symfony 和 Laravel 的组件、代码和思想。
 {% endnote %}
 
@@ -31,3 +31,4 @@ $ composer create awheel/awheel
 - [Representational State Transfer](https://zh.wikipedia.org/wiki/REST)
 - [Model–view–controller](https://zh.wikipedia.org/wiki/MVC)
 - [PHP Standards Recommendations](http://www.php-fig.org/psr/)
+- [Inversion of Control](https://zh.wikipedia.org/wiki/Inversion_of_control)
